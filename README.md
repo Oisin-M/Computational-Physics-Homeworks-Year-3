@@ -7,3 +7,6 @@ A store of the computational physics related homeworks I have done as part of co
 * **Homework 3** - Numerical Integration Techniques (Numerically Computing the Probability of Electron being in the Left Third of a Wall Given a Simplified Wavefunction)
 * **Homework 4** - Numerical Solutions to ODEs using a Fourth Order Runge-Kutte Solver (Solving Schrödinger's Equation for an Electron in a Potential Well - Both Infinite and Finite Cases)
 * **Homework 6** - Monte Carlo Methods (Modelling Radioactive Decay Chains)
+* **Homework 7** - Analysis of Hertzsprung-Russell Diagram
+* **Homework 8** - Fourier Analysis (Signal Analysis)
+* **Homework 9** - Fourier Analysis (Image Analysis)
